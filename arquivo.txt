@@ -2,12 +2,12 @@ git bash
 https://github.com/pedro08057/unifilintermediaria.git
 
 echo "# unifilintermediaria" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/pedro08057/unifilintermediaria.git
-git push -u origin main
+git init -> Inicia o git
+git add README.md -> Adiciona alguma coisa
+git commit -m "first commit" -> Mensagem da verão
+git branch -M main -> troca master por main
+git remote add origin https://github.com/pedro08057/unifilintermediaria.git -> adiciona a conta github
+git push -u origin main -> pusha tudo
 
 git remote add origin https://github.com/pedro08057/unifilintermediaria.git
 git branch -M main
