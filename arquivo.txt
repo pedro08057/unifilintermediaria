@@ -14,4 +14,4 @@ git remote add origin https://github.com/pedro08057/unifilintermediaria.git
 git branch -M main
 git push -u origin main
 
-git merge main // vai juntar os coidgos atraves dos commit
+git merge main // vai juntar os coidgos atraves da branch
